@@ -19,7 +19,7 @@ si no lo tienes habilitado puedes seguir este instructivo.
 	`cd backend`
 	`php -S localhost:8000`
 	
-3.  Por ultimo desde tu navegador ve a la ruta localhost/poke-api
+3.  Por ultimo desde tu navegador ve a la ruta `http://localhost/poke-api`
 
 ### Juan David Pineda Gómez
 
